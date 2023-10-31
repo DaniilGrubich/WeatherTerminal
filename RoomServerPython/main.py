@@ -15,7 +15,7 @@ class Server(WebSocket):
     def handleMessage(self):
         print(self.data)
         if(self.data == "unlock"):
-            password = "0804169"
+            password = "XXX"
             pyautogui.write(password, interval = 0.1)
             pyautogui.press('enter')
         else:

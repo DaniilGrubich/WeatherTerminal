@@ -1,5 +1,0 @@
-# Ignore secret.py file
-secret.py
-
-# Make .gitignore ignore itself
-.gitignore

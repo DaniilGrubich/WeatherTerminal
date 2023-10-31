@@ -1,5 +1,5 @@
-#ignore secret.py file
+# Ignore secret.py file
 secret.py
-#make it ignore itself
-.gitignore
 
+# Make .gitignore ignore itself
+.gitignore
